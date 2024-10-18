@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3407A
+D MOSFET P-CH 30V 4.3A SOT23
+K
+F http://www.aosmd.com/pdfs/datasheet/ao3407a.pdf
+$ENDCMP
+#
+#End Doc Library

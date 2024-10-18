@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "693010020611")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/693010020611/693010020611.kicad_sym")(options "")(descr ""))
+  (lib (name "U.FL-R-SMT-1")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/U.FL-R-SMT-1/U.FL-R-SMT-1.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM808")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/SIM808/SIM808.kicad_sym")(options "")(descr ""))
+  (lib (name "AO3407A")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/LIB_AO3407A/AO3407A.kicad_sym")(options "")(descr ""))
+  (lib (name "SMF05CT1G")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/SMF05CT1G/SMF05CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS5430DDA")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/TPS5430DDA/TPS5430DDA.kicad_sym")(options "")(descr ""))
+)
